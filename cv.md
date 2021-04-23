@@ -113,3 +113,34 @@ Responsibilities:
 * Determine, negotiate and agree on quality procedures, standards and specifications;
 * Technical reports preparation;
 * Scrum methodology thinking.
+
+## Education
+
+2020 __iOS Development, IT-academy__
+
+During the training at IT-Academy (June 2020 - November 2020) learned and used the following technologies:
+* GIT
+* Storyboard
+* XIB
+* UIKit
+* Autolayout
+* Kingfisher
+* MapKit
+* CoreLocation
+* StoreKit
+* UserNotifications
+* FireBase
+* GCD, Dispatch queues
+* UserDefaults, CoreData, KeyChain
+* СocoaPods, Carthage, SwiftPM
+* SwiftUI
+
+2019 __The Complete SQL Bootcamp, Udemy__
+
+2018 __Business comminication, A1QA__
+
+2016 __Software testing, A1QA__
+
+2016 __Software testing, EPAM__
+
+2012 __Faculty of Management Technologies and Humanitarization (FMTH), Economics and Management of the Enterprise (Red Diploma), Belarusian National Technical University__
