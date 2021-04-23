@@ -14,3 +14,16 @@
 ## Summary
 
 Great desire to grow up as a developer, high responsibility and result oriented.
+
+## Skills
+
+* GIT
+* Swift
+* OOP
+* Autolayout
+* UIKit
+* ARC
+* Firebase
+* MVC
+* Coredata
+* CocoaPods
