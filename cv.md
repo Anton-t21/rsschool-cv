@@ -101,7 +101,7 @@ __QA engineer__
 
 Project - Social casino
 
-Responsibilities:
+_Responsibilities:_
 
 * Test back-end (server) part of mobile and web applications;
 * Test mobile applications (Android, iOS, Amazon);
@@ -148,5 +148,7 @@ During the training at IT-Academy (June 2020 - November 2020) learned and used t
 ## Languages
 
 __English__ - upper intermediate (verbal and written business communication with customers from England, Italy, Spain)
+
 __Russian__ - native
+
 __Polish__ - basic
