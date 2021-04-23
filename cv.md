@@ -9,11 +9,19 @@
 
 *skype:* anton.tihonovich
 
-*linkedin:* [https://www.linkedin.com/in/anton-tihonovich-154529177/] (https://www.linkedin.com/in/anton-tihonovich-154529177/)
+*linkedin:* [https://www.linkedin.com/in/anton-tihonovich-154529177/](https://www.linkedin.com/in/anton-tihonovich-154529177/)
 
 ## Summary
 
 Great desire to grow up as a developer, high responsibility and result oriented.
+
+My strong sides are:
+
+1) Ability to study and develop myself: modern world moves forward very fast, the main value today is information, therefore it is very important how fast and good you can absorb new information;
+
+2) Responsibility for the duties i accept: managers, colleagues, friends can be absolutely sure that our agreements will be implemented;
+
+3) Discipline - it is about thinking of your target all the time and make step by step constantly to get it.
 
 ## Skills
 
@@ -42,7 +50,7 @@ Technologies used:
 
 Project link:
 
-https://bitbucket.org/Anton_Tihonovich/weatherapp/src/develop/
+[https://bitbucket.org/Anton_Tihonovich/weatherapp/src/develop/](https://bitbucket.org/Anton_Tihonovich/weatherapp/src/develop/)
 
 2) *QAcalendar* - iOS app which automatically builds week duty periods for QA engineers (e.g. for handling support claims) and send local push notifications to the QA on duty. For this purpose user can login or create new user to have access to the app, add and delete QA engineers from the storage which kept in Firebase, add vacation periods. Code is still under development.
 
@@ -57,7 +65,7 @@ Project link:
 
 gitbitbucket.org:Anton_Tihonovich/tihonovich.git
 
-https://bitbucket.org/Anton_Tihonovich/tihonovich/src/develop/
+[https://bitbucket.org/Anton_Tihonovich/tihonovich/src/develop/](https://bitbucket.org/Anton_Tihonovich/tihonovich/src/develop/)
 
 ## Experience
 
