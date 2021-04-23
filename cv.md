@@ -61,11 +61,11 @@ https://bitbucket.org/Anton_Tihonovich/tihonovich/src/develop/
 
 ## Experience
 
-_April 2018 - currently_
+__April 2018 - currently__
 
-_Verv (Redrock)_
+__Verv (Redrock)__
 
-_QA engineer_
+__QA engineer__
 
 Project - Health application
 
@@ -93,11 +93,11 @@ Project - Health application
 * Jenkins
 * Hopper - disassembler
 
-_July 2016 - March 2018_
+__July 2016 - March 2018__
 
-_A1QA_
+__A1QA__
 
-_QA engineer_
+__QA engineer__
 
 Project - Social casino
 
