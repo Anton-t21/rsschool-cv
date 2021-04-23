@@ -10,3 +10,7 @@
 *skype:* anton.tihonovich
 
 *linkedin:* [https://www.linkedin.com/in/anton-tihonovich-154529177/] (https://www.linkedin.com/in/anton-tihonovich-154529177/)
+
+## Summary
+
+Great desire to grow up as a developer, high responsibility and result oriented.
