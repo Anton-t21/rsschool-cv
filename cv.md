@@ -1,4 +1,4 @@
-# Anton Tihonovich
+# Anton Tihonovich - Junior iOS developer
 
 ## Contact info:
 *tel.:* +375 29 366 03 88
@@ -116,7 +116,7 @@ Responsibilities:
 
 ## Education
 
-2020 __iOS Development, IT-academy__
+2020 - __iOS Development, IT-academy__
 
 During the training at IT-Academy (June 2020 - November 2020) learned and used the following technologies:
 * GIT
@@ -135,12 +135,18 @@ During the training at IT-Academy (June 2020 - November 2020) learned and used t
 * СocoaPods, Carthage, SwiftPM
 * SwiftUI
 
-2019 __The Complete SQL Bootcamp, Udemy__
+2019 - __The Complete SQL Bootcamp, Udemy__
 
-2018 __Business comminication, A1QA__
+2018 - __Business comminication, A1QA__
 
-2016 __Software testing, A1QA__
+2016 - __Software testing, A1QA__
 
-2016 __Software testing, EPAM__
+2016 - __Software testing, EPAM__
 
-2012 __Faculty of Management Technologies and Humanitarization (FMTH), Economics and Management of the Enterprise (Red Diploma), Belarusian National Technical University__
+2012 - __Faculty of Management Technologies and Humanitarization (FMTH), Economics and Management of the Enterprise (Red Diploma), Belarusian National Technical University__
+
+## Languages
+
+__English__ - upper intermediate (verbal and written business communication with customers from England, Italy, Spain)
+__Russian__ - native
+__Polish__ - basic
