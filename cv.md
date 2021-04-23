@@ -30,8 +30,6 @@ Great desire to grow up as a developer, high responsibility and result oriented.
 
 ## Code examples
 
-_Training projects:_
-
 1) *WeatherApp* - get the weather forecast (current, hour, daily) for your current location.
 
 Technologies used:
@@ -42,13 +40,9 @@ Technologies used:
 * GCD
 * Autolayout
 
-Project links:
+Project link:
 
 https://bitbucket.org/Anton_Tihonovich/weatherapp/src/develop/
-
-https://Anton_Tihonovich@bitbucket.org/Anton_Tihonovich/weatherapp.git
-
-git@bitbucket.org:Anton_Tihonovich/weatherapp.git
 
 2) *QAcalendar* - iOS app which automatically builds week duty periods for QA engineers (e.g. for handling support claims) and send local push notifications to the QA on duty. For this purpose user can login or create new user to have access to the app, add and delete QA engineers from the storage which kept in Firebase, add vacation periods. Code is still under development.
 
@@ -64,3 +58,58 @@ Project link:
 gitbitbucket.org:Anton_Tihonovich/tihonovich.git
 
 https://bitbucket.org/Anton_Tihonovich/tihonovich/src/develop/
+
+## Experience
+
+_April 2018 - currently_
+
+_Verv (Redrock)_
+
+_QA engineer_
+
+Project - Health application
+
+*Responsibilities:*
+
+* Test mobile applications (iOS);
+* Review quality specifications and technical design documents to provide timely and meaningful feedback;
+* Specification clarification with product managers and developers;
+* Estimate, prioritize, plan quality testing activities;
+* Identify, record, document thoroughly and tracking bugs;
+* Perform thorough regression testing when bugs are resolved;
+* Create check-lists, test cases;
+* Determine, negotiate and agree on quality procedures, standards and specifications;
+* Scrum methodology thinking.
+
+*Key technical skills:*
+
+* Mac OS
+* Xcode
+* iOS devices (phones, Apple Watch)
+* Bug tracking system - Jira
+* Test case management system - Xray
+* Testflight
+* Web debuging proxy (Charles)
+* Jenkins
+* Hopper - disassembler
+
+_July 2016 - March 2018_
+
+_A1QA_
+
+_QA engineer_
+
+Project - Social casino
+
+Responsibilities:
+
+* Test back-end (server) part of mobile and web applications;
+* Test mobile applications (Android, iOS, Amazon);
+* Create check-lists, test cases and stories;
+* Communication with the customers;
+* Specification clarification with the customer;
+* Specification preparation;
+* Assess customer requirements and ensuring that they are met;
+* Determine, negotiate and agree on quality procedures, standards and specifications;
+* Technical reports preparation;
+* Scrum methodology thinking.
