@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://anton-tihonovich.github.io/rsschool-cv/cv
+https://anton-t21.github.io/rsschool-cv/cv
